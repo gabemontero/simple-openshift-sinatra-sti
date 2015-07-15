@@ -1,0 +1,6 @@
+{
+    "source":"git://github.com/gabemontero/simple-openshift-sinatra-sti",
+    "builderImage":"openshift/ruby-20-centos7",
+    "tag":"ggm-ruby-app",
+    "flags":{"use-config":"true"}
+}
